@@ -17,7 +17,7 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
 
 ---
 
-## Learn More
+## Explore further
 
 <center>
 <table style="width:100%">
