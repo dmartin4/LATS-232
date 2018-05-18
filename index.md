@@ -3,7 +3,7 @@ title: About the Archive
 feature_text: |
   # Lenses
   #### An archive of Italian-American experience.
-feature_image: "/img/immigrationmap.png"
+feature_image: "https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/immigrationmap.png"
 excerpt: "This archive follows the path of Italian immigrants as they journeyed to America and the generations of Italian-Americans that followed them."
 ---
 
