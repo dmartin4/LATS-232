@@ -24,12 +24,12 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/life_thumb.png" width="30%" height="30%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/life_thumb.png" width="40%" height="34%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/church_thumb.png" width="30%" height="30%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/church_thumb.png" width="40%" height="40%"/>
      </center>
     </td>
     <td>
