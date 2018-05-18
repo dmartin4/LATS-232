@@ -51,7 +51,7 @@ Even after making the choice to leave Italy, it took several years for my great 
     </td>
     <td>
      <center>
-     <a href="https://www.smithsonianmag.com/smithsonian-institution/ask-smithsonian-did-ellis-island-officials-really-change-names-immigrants-180961544/">A discussion of Ellis Island's history and the name changes that occurred during immigration.</a>
+     <a href="https://www.smithsonianmag.com/smithsonian-institution/ask-smithsonian-did-ellis-island-officials-really-change-names-immigrants-180961544/">A discussion of Ellis Island's history and name changes during immigration.</a>
      </center>
     </td>
   </tr>
