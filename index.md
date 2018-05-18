@@ -1,10 +1,10 @@
 ---
-title: About Alembic
+title: Lenses
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## Lenses
+  An archive of Italian-American experience.
+feature_image: "/img/immigrationmap.png"
+excerpt: "This archive follows the path of Italian immigrants as they journeyed to America and the generations of Italian-Americans that followed them."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
