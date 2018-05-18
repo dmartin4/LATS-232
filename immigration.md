@@ -11,7 +11,7 @@ Even after making the choice to leave Italy, it took several years for my great 
 </center>
 
 <center>
-  <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/prinz_oscar.png"/>
+  <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/prinz_oskar.png"/>
   <p>An image of the S.S. Prinz Oscar, the ship that my grandparents took from Italy to America.</p>
 </center>
 
