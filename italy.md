@@ -25,7 +25,7 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/" width="300%" height="300%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/church_thumb.png" width="30%" height="30%"/>
      </center>
     </td>
     <td>
@@ -36,11 +36,13 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
   </tr>
   <tr>
     <td>
-     <a href="https://www.lifeinitaly.com/history/life-italy-during-19th-century">Life in Italy at the Turn of the Century</a>
+     <center>
+      <a href="https://www.lifeinitaly.com/history/life-italy-during-19th-century">Life in Italy at the Turn of the Century</a>
+     <center>
     </td>
     <td>
      <center>
-     <a href="https://wl5.github.io/">Wei Luo</a>
+     <a href="http://www.mediocratitour.it/tour.php?lang=en&comune=bancartis">Take a virtual tour of the Church of Saint Bernardine of Siena in Morano Calabro.</a>
      </center>
     </td>
     <td>
