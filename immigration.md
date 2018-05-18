@@ -24,12 +24,12 @@ Even after making the choice to leave Italy, it took several years for my great 
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/ei_thumb.png" width="67%" height="67%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/ei_thumb.png" width="57%" height="57%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/child_thumb.png" width="50%" height="50%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/child_thumb.png" width="40%" height="40%"/>
      </center>
     </td>
     <td>
