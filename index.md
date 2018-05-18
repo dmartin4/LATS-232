@@ -17,4 +17,6 @@ This archive allows you to follow the path of Italian immigrants through their j
 
 The archive has two primary structural elements: the story of my family, and the documents that help to demonstrate how this experience interacts with the broader story of Italian immigration in the 20th century.  As you enter the archive, you will be able to follow many of the key steps along their path--starting with their homes in Italy and finishing in the present day.  Each of these steps is accompanied by documents, images, and stories that address the larger trends and narratives in which these experiences  Importantly, these aspects of the archive are mutually informative, each providing nuanced insights into and interpretations of the other.  My family story will provide grounding for larger trends in a tangible, personal journey, contextualizing larger trends in a narrative of lived experience.  The broader story of Italian-American experience told through the supporting documents will help to provide a historical and cultural setting for my family's journey.
 
+Please note that citations for all documents included in this archive can be found in the [Finding Guide](/guide).
+
 <center><button name="button" onclick="http://dmartin4.github.io/LATS-232/italy">Enter the Archive</button></center>
