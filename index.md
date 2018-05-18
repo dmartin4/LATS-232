@@ -7,6 +7,10 @@ feature_image: "https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/i
 excerpt: "This archive follows the path of Italian immigrants as they journeyed to America and the generations of Italian-Americans that followed them."
 ---
 
+<audio controls autoplay>
+  <source src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/song.mp3" type="audio/mpeg">
+</audio>
+
 This archive allows you to follow the path of Italian immigrants through their journey to America and the generations of Italian-Americans that followed them.  These documents and stories explore the experiences of my family--the Coppotellis and the Cudas--as they left Italy to make a new home in America during the early 20th century.  Their story provides a lens into the broader context of Italian-American life.  Enter the archive to learn about their journey, and the ongoing story of my family into the modern day.
 
 ## Structure of the Archive
