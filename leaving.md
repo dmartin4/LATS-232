@@ -18,7 +18,7 @@ While Italy was home to my great-grandparents for their youth and adolesence, th
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/why_thumb.png" width="80%" height="80%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/why_thumb.png" width="90%" height="80%"/>
      </center>
     </td>
     <td>
