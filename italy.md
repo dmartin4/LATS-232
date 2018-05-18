@@ -38,7 +38,7 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
     <td>
      <center>
       <a href="https://www.lifeinitaly.com/history/life-italy-during-19th-century">Life in Italy at the Turn of the Century</a>
-     <center>
+     </center>
     </td>
     <td>
      <center>
