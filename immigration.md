@@ -34,7 +34,7 @@ Even after making the choice to leave Italy, it took several years for my great 
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/name_thumb.png" width="170%" height="170%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/name_thumb.png" width="200%" height="200%"/>
      </center>
     </td>
   </tr>
