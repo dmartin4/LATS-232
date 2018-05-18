@@ -29,7 +29,7 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/church_thumb.png" width="45%" height="45%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/church_thumb.png" width="55%" height="55%"/>
      </center>
     </td>
     <td>
