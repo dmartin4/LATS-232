@@ -18,17 +18,17 @@ While Italy was home to my great-grandparents for their youth and adolesence, th
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/life_thumb.png" width="60%" height="60%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/why_thumb.png" width="60%" height="60%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/church_thumb.png" width="75%" height="75%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/polit_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/pisa_thumb.png" width="85%" height="85%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/brothers_thumb.png" width="85%" height="85%"/>
      </center>
     </td>
   </tr>
