@@ -34,7 +34,7 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/" width="50%" height="50%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/pisa_thumb" width="50%" height="50%"/>
      </center>
     </td>
   </tr>
@@ -51,7 +51,7 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
     </td>
     <td>
      <center>
-     <a href="https://verajulian.github.io/">Julian Vera</a>
+     <a href="http://www.aboutpisa.info/traditional-events.html">Learn about traditional events in Pisa.</a>
      </center>
     </td>
   </tr>
