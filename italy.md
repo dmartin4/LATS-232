@@ -34,7 +34,7 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/pisa_thumb.png" width="50%" height="50%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/pisa_thumb.png" width="65%" height="65%"/>
      </center>
     </td>
   </tr>
