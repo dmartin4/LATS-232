@@ -58,3 +58,16 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
 </table>
 </center>
 
+<table style="width:100%">
+  <tr>
+    <td>
+      <left><a href="http://dmartin4.github.io/LATS-232/"><button name="button" onclick="http://dmartin4.github.io/LATS-232/">Home</button></a></left>
+    </td>
+    <td>
+      <right><a href="http://dmartin4.github.io/LATS-232/leaving"><button name="button" onclick="http://dmartin4.github.io/LATS-232/leaving">Deciding to Leave</button></a></right>
+    </td>
+  </tr>
+ </table>
+  
+  
+
