@@ -24,12 +24,12 @@ Even after making the choice to leave Italy, it took several years for my great 
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/life_thumb.png" width="60%" height="60%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/ei_thumb.png" width="60%" height="60%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/church_thumb.png" width="75%" height="75%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/child_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
     <td>
@@ -41,12 +41,12 @@ Even after making the choice to leave Italy, it took several years for my great 
   <tr>
     <td>
      <center>
-      <a href="https://www.lifeinitaly.com/history/life-italy-during-19th-century">Life in Italy at the Turn of the Century</a>
+      <a href="https://www.docsteach.org/documents/document/ellis-island/167436/1">Ellis Island in 1936, close to the time when the Coppotellis first arrived in America.</a>
      </center>
     </td>
     <td>
      <center>
-     <a href="http://www.mediocratitour.it/tour.php?lang=en&comune=bancartis">Take a virtual tour of the Church of Saint Bernardine of Siena in Morano Calabro.</a>
+     <a href="https://www.docsteach.org/documents/document/children-ellis-island/17220/1">Immigrant children, around the age that my grandfather would have been when he immigrated, at Ellis Island.</a>
      </center>
     </td>
     <td>
@@ -65,12 +65,12 @@ Even after making the choice to leave Italy, it took several years for my great 
   <tr>
     <td>
       <div align="left">
-       <a href="http://dmartin4.github.io/LATS-232/"><button name="button" onclick="http://dmartin4.github.io/LATS-232/">Home</button></a>
+       <a href="http://dmartin4.github.io/LATS-232/leaving"><button name="button" onclick="http://dmartin4.github.io/LATS-232/leaving">Deciding to Leave</button></a>
       </div>
     </td>
     <td>
      <div align="right">
-      <a href="http://dmartin4.github.io/LATS-232/leaving"><button name="button" onclick="http://dmartin4.github.io/LATS-232/leaving">Deciding to Leave</button></a>
+      <a href="http://dmartin4.github.io/LATS-232/assim"><button name="button" onclick="http://dmartin4.github.io/LATS-232/assim">Settling in America</button></a>
       </div>
     </td>
   </tr>
