@@ -19,4 +19,4 @@ The archive has two primary structural elements: the story of my family, and the
 
 Please note that citations for all documents included in this archive can be found in the [Finding Guide](/guide).
 
-<center><button name="button" onclick="http://dmartin4.github.io/LATS-232/italy">Enter the Archive</button></center>
+<center><a href="http://dmartin4.github.io/LATS-232/italy"><button name="button" onclick="http://dmartin4.github.io/LATS-232/italy">Enter the Archive</button></a></center>
