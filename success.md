@@ -36,7 +36,7 @@ Shortly after getting married, my grandparents moved to Long Island where my gra
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/fam_thumb.png" width="82%" height="82%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/fam_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
   </tr>
