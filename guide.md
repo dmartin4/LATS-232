@@ -54,7 +54,7 @@ Mainieri, Aldo. "Morano Calabro, Cosenza, Calabria, Italy, 1935/1936." In *Attra
 
 "Traditional Events in Pisa." *About Pisa.* Accessed 19 May, 2018.  http://www.aboutpisa.info/traditional-events.html
 
-####Deciding to Leave
+#### Deciding to Leave
 "History of Italian Immigration." *From Europe to America: Immigration Through Family Tales.*  Accessed 19 May, 2018. https://www.mtholyoke.edu/~molna22a/classweb/politics/Italianhistory.html
 
 “Second Wave Italian Immigrants to America.” By Tony R.  Youtube. Web. 27 September 2011.  Accessed 19 May 2018. https://www.youtube.com/watch?v=eQj_xjOMHs8
