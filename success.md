@@ -64,12 +64,12 @@ Shortly after getting married, my grandparents moved to Long Island where my gra
   <tr>
     <td>
       <div align="left">
-       <a href="http://dmartin4.github.io/LATS-232/assim"><button name="button" onclick="http://dmartin4.github.io/LATS-232/assim">Growing Up Italian-American</button></a>
+       <a href="http://dmartin4.github.io/LATS-232/growing"><button name="button" onclick="http://dmartin4.github.io/LATS-232/growing">Growing Up Italian-American</button></a>
       </div>
     </td>
     <td>
      <div align="right">
-      <a href="http://dmartin4.github.io/LATS-232/success"><button name="button" onclick="http://dmartin4.github.io/LATS-232/success">Maintaining Traditions</button></a>
+      <a href="http://dmartin4.github.io/LATS-232/today"><button name="button" onclick="http://dmartin4.github.io/LATS-232/today">Maintaining Traditions</button></a>
       </div>
     </td>
   </tr>
