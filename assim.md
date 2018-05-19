@@ -21,6 +21,9 @@ After arriving in America, both the Coppotellis and Cudas moved to Utica, New Yo
 
 <center>
 <table style="width:100%">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
   <tr>
     <td>
       <center>
