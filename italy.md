@@ -21,6 +21,9 @@ My family came primarily from southern Italy. The Cudas, my maternal grandmother
 
 <center>
 <table style="width:100%">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
   <tr>
     <td>
       <center>
