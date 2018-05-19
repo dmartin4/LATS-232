@@ -21,6 +21,9 @@ While their parents immigrated to America, my grandparents, Donald Coppotelli an
 
 <center>
 <table style="width:100%">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
   <tr>
     <td>
       <center>
