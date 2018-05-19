@@ -1,9 +1,9 @@
 ---
-title: Growing up Italian-American
+title: Finding Success
 layout: page
 ---
 
-Shortly after getting married, my grandparents moved to Long Island where my grandfather took a job with General Electric in the 
+Shortly after getting married, my grandparents moved to Long Island where my grandfather took a job with General Electric in their computing division. He worked for GE for his entire career, spending over 50 years with the company.  Over that time he traveled throughout America, working in several of GEs offices and working on some of the early computers that they had at GE.  He also worked in their office in Venezuala in the 1950s and 60s, where he lived with my grandmother and their children, helping to integrate their new computing technology with various businesses within the company.  He and my grandmother had five children--Michelle, Lisa, Allen, Rene, and my mother Claudine.  This next generation, living in the Italian-American culture that their parents helped to create, continued to integrate the Italian-American experience with the American society in which they lived.  Their family ultimately settled in Westport Connecticut, where my grandfather lived until his death in 2007 and where my grandmother still lives.
 
 <center>
   <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/gpa_college.png"/>
