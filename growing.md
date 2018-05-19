@@ -24,12 +24,12 @@ While their parents immigrated to America, my grandparents, Donald Coppotelli an
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/pred_thumb.png" width="100%" height="100%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/coming_thumb.png" width="100%" height="100%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/ancestory.png" width="70%" height="70%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/hist_thumb.png" width="70%" height="70%"/>
      </center>
     </td>
     <td>
@@ -41,12 +41,12 @@ While their parents immigrated to America, my grandparents, Donald Coppotelli an
   <tr>
     <td>
      <center>
-      <a href="http://www.cnn.com/2012/07/10/opinion/falco-italian-immigrants/index.html">A brief history of prejudice against Italians in America.</a>
+      <a href="https://www.nytimes.com/1983/05/15/magazine/italian-americans-coming-into-their-own.html">An article reflecting on the development of Italian-American culture and people.</a>
      </center>
     </td>
     <td>
      <center>
-     <a href="https://dmartin4.github.io/LATS-232/img/ancestory.png">A map of Italian-American settlment in the United States.  The northeast, including the area surrounding Utica, has a particularly high concentration of Italian Americans.</a>
+     <a href="http://digitalassets.lib.berkeley.edu/roho/ucb/text/giannone_mary_2016.pdf">An oral history of growing up Italian-American.</a>
      </center>
     </td>
     <td>
