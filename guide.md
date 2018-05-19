@@ -108,3 +108,10 @@ Photograph of Coppotelli family at Lee Martin and Claudine Coppotelli's wedding.
 Tomasi, Lydio F. "The Italian American Family." *Center for Migration Studies* 1972.  Accessed 19 May, 2018. http://cmsny.org/wp-content/uploads/2016/02/Tomasi-The-Italian-American-Family.pdf
 
 #### Maintaining Traditions Today
+Cannato, Vincent J. "How America became Italian." *The Washington Post* 9 October 2015. Accessed 19 May, 2018. https://www.washingtonpost.com/opinions/how-america-became-italian/2015/10/09/4c93b1be-6ddd-11e5-9bfe-e59f5e244f92_story.html?noredirect=on&utm_term=.0dc6898e02f5
+
+Martin, Dylan. Photograph of family recipe.  18 May 2018.  Author's personal collection.
+
+Martin, Dylan. Photograph of extended Coppotelli family at Christmas 2017.  22 December 2017.  Author's personal collection.
+
+*The Italian American Slang Word of the Day.* Website.  Accessed 19 May 2018. http://italianamericanslangwordoftheday.com/
