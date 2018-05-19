@@ -49,12 +49,12 @@ After arriving in America, both the Coppotellis and Cudas moved to Utica, New Yo
     </td>
     <td>
      <center>
-     <a href="https://dmartin4.github.io/LATS-232/img/ancestory.png">A map of Italian-American settlment in the United States.  The northeast, including the area surrounding Utica, has a particularly high concentration of Italian Americans.</a>
+     <a href="https://dmartin4.github.io/LATS-232/img/ancestory.png">A map of Italian-American settlement in the United States.  The northeast, including the area surrounding Utica, has a particularly high concentration of Italian Americans.</a>
      </center>
     </td>
     <td>
      <center>
-     <a href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1155&context=masters_theses">An academic analysis of Italian settlment in America and the communities it formed.</a>
+     <a href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1155&context=masters_theses">An academic analysis of Italian settlement in America and the communities it formed.</a>
      </center>
     </td>
   </tr>
