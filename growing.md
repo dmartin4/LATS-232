@@ -34,7 +34,7 @@ While their parents immigrated to America, my grandparents, Donald Coppotelli an
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/doc_thumb.png" width="100%" height="100%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/doc_thumb.png" width="70%" height="70%"/>
      </center>
     </td>
   </tr>
