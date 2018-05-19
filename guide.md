@@ -17,10 +17,10 @@ Extent: 7 pages (website)
 Languages: The material is in English and Italian
 
 ### Abstract
-A collection of documents detailing the Coppotelli and Cuda familys' immigration to and experience in America, and documents that document the larger Italian-American experience in America.
+A collection of documents detailing the Coppotelli and Cuda family's immigration to and experience in America, and documents that document the larger Italian-American experience in America.
 
 ### History
-These documents were created by a wide range of sources, both individual and insitutional.  I undertook this project in the hope of both personally learning more about my family's history and the context in which it resides and to create a personal archival perspective on Italian-American experience.
+These documents were created by a wide range of sources, both individual and institutional.  I undertook this project in the hope of both personally learning more about my family's history and the context in which it resides and to create a personal archival perspective on Italian-American experience.
 
 ### Scope and Content
 The documents here include images, videos, audio, articles, and essays documenting Italian-American and family experiences.  These items document the path of one family, and place it in a larger context of Italian-American immigration and assimilation into America.  The family documents and broader contextual items are mutually informative, creating a unique and personal perspective into immigration and life as an Italian-American.
@@ -79,7 +79,7 @@ Falco, Ed. "When Italian Immigrants were 'the Other'." *CNN.com.* CNN 10 July 20
 
 "How? became?..." *U.S. Citizenship and Immigration Services.* Accessed 19 May 2018. https://www.uscis.gov/history-and-genealogy/genealogy/genealogy-notebook/immigrant-name-changes
 
-"Largest Ancestory: 2000." From Brittingham, Angela and G. Patricia de la Cruz. "Ancestry: 2000." *U.S. Census Bureau* June 2004.  Accessed 19 May 2018. https://www.census.gov/prod/2004pubs/c2kbr-35.pdf
+"Largest Ancestry: 2000." From Brittingham, Angela and G. Patricia de la Cruz. "Ancestry: 2000." *U.S. Census Bureau* June 2004.  Accessed 19 May 2018. https://www.census.gov/prod/2004pubs/c2kbr-35.pdf
 
 "Look Back: Local Photos from the 1960s, '70s." *Observer-Dispatch.*  Accessed 19 May, 2018. http://www.uticaod.com/photogallery/NY/20171006/NEWS/324009997/PH/1?start=2
 
@@ -94,14 +94,14 @@ Giannone, Mary. By David Dunham. 2014. Oral History Center, The Bancroft Library
 
 Hall, Stephen S. "Italian-Americans Coming into their Own." *The New York Times Magazine* 1983.  Accessed 19 May 2018. https://www.nytimes.com/1983/05/15/magazine/italian-americans-coming-into-their-own.html
 
-"The Italian Americans: Breaking Through." *PBS* 17 Feburary 2015.  Accessed 19 May 2018. http://www.pbs.org/video/italian-americans-breaking-through/
+"The Italian Americans: Breaking Through." *PBS* 17 February 2015.  Accessed 19 May 2018. http://www.pbs.org/video/italian-americans-breaking-through/
 
 #### Finding Success
 "1960 General Electric Computer - GE 210 - 1961 MICR - Banking Finance Data Processing." By Computer History Archives Project. *Youtube.* 9 March 2016. Accessed 19 May 2018. https://www.youtube.com/watch?v=QfHMu75cfjg
 
 Martin, Dylan. Photograph of GE Computer Council Award, given to Donald Coppotelli. 18 May 2018. Author's personal collection.
 
-Photograph of Donald Coppotelli and his Daughters.  Date unkown. Author's personal collection.
+Photograph of Donald Coppotelli and his Daughters.  Date unknown. Author's personal collection.
 
 Photograph of Coppotelli family at Lee Martin and Claudine Coppotelli's wedding.  August 29 1994.  Author's personal collection.
 
