@@ -27,17 +27,17 @@ While their parents immigrated to America, my grandparents, Donald Coppotelli an
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/coming_thumb.png" width="85%" height="90%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/coming_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/hist_thumb.png" width="100%" height="100%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/hist_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/doc_thumb.png" width="55%" height="60%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/doc_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
   </tr>
