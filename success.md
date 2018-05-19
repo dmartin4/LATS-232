@@ -31,12 +31,12 @@ Shortly after getting married, my grandparents moved to Long Island where my gra
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/coming_thumb.png" width="75%" height="75%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/comp_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/hist_thumb.png" width="82%" height="82%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/fam_thumb.png" width="82%" height="82%"/>
      </center>
     </td>
   </tr>
