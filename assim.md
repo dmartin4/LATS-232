@@ -24,17 +24,17 @@ After arriving in America, both the Coppotellis and Cudas moved to Utica, New Yo
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/pred_thumb.png" width="57%" height="57%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/pred_thumb.png" width="90%" height="90%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/ancestory.png" width="40%" height="40%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/ancestory.png" width="80%" height="80%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/scholar_thumb.png" width="200%" height="200%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/scholar_thumb.png" width="100%" height="100%"/>
      </center>
     </td>
   </tr>
