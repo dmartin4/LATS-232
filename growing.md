@@ -11,8 +11,8 @@ While their parents immigrated to America, my grandparents, Donald Coppotelli an
 </center>
 
 <center>
-  <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/name_change.png"/>
-  <p>Immigrants who changed their names in America often encountered legal difficulties, like the case documented here.</p>
+  <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/anthony_marriage.png"/>
+  <p>A newspaper marriage announcement for my great uncle Anthony Cuda.  He was married in Utica, NY, where much of my family lived.</p>
 </center>
 
 ---
