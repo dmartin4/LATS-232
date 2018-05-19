@@ -68,12 +68,12 @@ While their parents immigrated to America, my grandparents, Donald Coppotelli an
   <tr>
     <td>
       <div align="left">
-       <a href="http://dmartin4.github.io/LATS-232/immigration"><button name="button" onclick="http://dmartin4.github.io/LATS-232/immigration">Immigration to America</button></a>
+       <a href="http://dmartin4.github.io/LATS-232/assim"><button name="button" onclick="http://dmartin4.github.io/LATS-232/assim">Settling in America</button></a>
       </div>
     </td>
     <td>
      <div align="right">
-      <a href="http://dmartin4.github.io/LATS-232/growing"><button name="button" onclick="http://dmartin4.github.io/LATS-232/growing">Growing up Italian-American</button></a>
+      <a href="http://dmartin4.github.io/LATS-232/success"><button name="button" onclick="http://dmartin4.github.io/LATS-232/success">Finding Success</button></a>
       </div>
     </td>
   </tr>
