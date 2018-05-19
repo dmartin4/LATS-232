@@ -15,6 +15,9 @@ While Italy was home to my great-grandparents for their youth and adolesence, th
 
 <center>
 <table style="width:100%">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
   <tr>
     <td>
       <center>
