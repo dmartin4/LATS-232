@@ -51,7 +51,7 @@ While their parents immigrated to America, my grandparents, Donald Coppotelli an
     </td>
     <td>
      <center>
-     <a href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1155&context=masters_theses">An academic analysis of Italian settlment in America and the communities it formed.</a>
+     <a href="http://www.pbs.org/video/italian-americans-breaking-through/">A clip from the PBS Documentary "The Italian Americans" discussing the normalization of Italian-American culture and identity in the US.</a>
      </center>
     </td>
   </tr>
