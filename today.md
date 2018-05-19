@@ -26,12 +26,12 @@ While today we are removed from the history of immigration that was central to m
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/comp_thumb.png" width="75%" height="75%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/today_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/fam_thumb.png" width="75%" height="75%"/>
+       <img src="https://raw.githubusercontent.com/dmartin4/LATS-232/master/img/slang_thumb.png" width="75%" height="75%"/>
      </center>
     </td>
   </tr>
@@ -43,7 +43,7 @@ While today we are removed from the history of immigration that was central to m
     </td>
     <td>
      <center>
-     <a href="http://cmsny.org/wp-content/uploads/2016/02/Tomasi-The-Italian-American-Family.pdf">A study of Italian-American family culture and traditions.</a>
+     <a href="http://italianamericanslangwordoftheday.com/">A website presenting Italian-American slang words, an interesting way that Italian-American heritage has become integrated into American life.</a>
      </center>
     </td>
   </tr>
@@ -59,12 +59,12 @@ While today we are removed from the history of immigration that was central to m
   <tr>
     <td>
       <div align="left">
-       <a href="http://dmartin4.github.io/LATS-232/growing"><button name="button" onclick="http://dmartin4.github.io/LATS-232/growing">Growing Up Italian-American</button></a>
+       <a href="http://dmartin4.github.io/LATS-232/success"><button name="button" onclick="http://dmartin4.github.io/LATS-232/success">Finding Success</button></a>
       </div>
     </td>
     <td>
      <div align="right">
-      <a href="http://dmartin4.github.io/LATS-232/today"><button name="button" onclick="http://dmartin4.github.io/LATS-232/today">Maintaining Traditions</button></a>
+      <a href="http://dmartin4.github.io/LATS-232/"><button name="button" onclick="http://dmartin4.github.io/LATS-232/">Home</button></a>
       </div>
     </td>
   </tr>
